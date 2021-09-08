@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.ipp": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "mutex": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "thread": "cpp",
+        "tuple": "cpp",
+        "condition_variable": "cpp"
+    }
+}
